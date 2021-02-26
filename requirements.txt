@@ -6,7 +6,7 @@ psycopg2-binary
 numpy
 Pillow
 pyrogram
-chatbase
+git+git://github.com/google/chatbase-python.git
 requests
 tgcrypto
 #youtube-dl
