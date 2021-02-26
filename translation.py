@@ -36,6 +36,8 @@ URL | newfilename | username | password"""
     DOWNLOAD_START = "Trying to download your file..."
     
     UPLOAD_START = "Uploading now.."
+
+    SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
@@ -54,3 +56,7 @@ URL | newfilename | username | password"""
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
     NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently.
+  
+    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /rename with custom thumbnail support"
+
+    RENAME_403_ERR = "403: File Couldn't be Renamed."
