@@ -2,26 +2,24 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot!
+Welcome to Cloud Download Bot!
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Dev : @ProjectHackfreaks
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hey I'am a Cloud Downloader..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+   video  - Give File as video without Screenshots
+   file  - Give File without Screenshots
 
-Support Group : @TroJanzSupport
+
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,7 +31,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>It's Free!! You Don'r need to Updrage.</a>"
     
     DOWNLOAD_START = "Trying to download your file..."
     
@@ -55,4 +53,4 @@ URL | newfilename | username | password"""
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
-    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
+    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently.
