@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+#### If you find any bugs, report to [@Swonit](https://telegram.dog/Swonit)
 
 ### Features
 
@@ -28,8 +28,8 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
-cd URLuploader-With-Hotstar
+git clone https://github.com/swatv3nub/URLuploader
+cd URLuploader
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
