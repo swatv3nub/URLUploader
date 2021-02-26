@@ -18,7 +18,7 @@ from translation import Translation
 import pyrogram
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
-from plugins.helper_funcs.chat_base import TRChatBase
+from helper_funcs.chat_base import TRChatBase
 
 # https://stackoverflow.com/a/37631799/4723940
 from PIL import Image
