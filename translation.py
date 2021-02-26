@@ -39,7 +39,7 @@ URL | newfilename | username | password"""
 
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds. Join @ProjectHackfreaks"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
@@ -55,7 +55,7 @@ URL | newfilename | username | password"""
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
-    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently.
+    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."
   
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /rename with custom thumbnail support"
 
