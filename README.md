@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [@Swonit](https://telegram.dog/Swonit)
+#### If you find any bugs, report to [@MaskedVirus](https://telegram.dog/MaskedVirus)
 
 ### Features
 
